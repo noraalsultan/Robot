@@ -1,0 +1,43 @@
+body {
+	background-color:  #142739
+;
+}
+
+
+.remote{
+	text-align: center;
+	margin-top: 25%;
+}
+button {
+	background-color:  #c6b3ff	;
+   border: none;
+   color: #595959;
+   padding: 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 20px;
+   margin: 8px 8px;
+   cursor: pointer;
+	 border-radius:30%;
+}
+button:hover{
+	border-radius: 20%;
+	border-color: grey;
+	background-color: #ece6ff;
+}
+
+.buttonF{
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.buttonB{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+h1{
+	 color:  #999999;
+	 font-size: 70px;
+}
